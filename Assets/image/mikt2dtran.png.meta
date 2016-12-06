@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: f33715303d2d34f41a1bd9a65f3ae7ce
+timeCreated: 1480532856
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mikt2dtran_0
+    21300002: mikt2dtran_1
+    21300004: mikt2dtran_2
+    21300006: mikt2dtran_3
+    21300008: mikt2dtran_4
+    21300010: mikt2dtran_5
+    21300012: mikt2dtran_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mikt2dtran_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 374
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mikt2dtran_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 375
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mikt2dtran_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 375
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mikt2dtran_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 375
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mikt2dtran_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 375
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mikt2dtran_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 373
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mikt2dtran_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 373
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
